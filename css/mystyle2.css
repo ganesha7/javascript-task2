@@ -1,0 +1,48 @@
+/*.box{
+	height: 450px;
+	width: 400px;
+	background-color: lightblue;
+	margin: auto;
+	
+}*/
+
+.box h1{
+	margin: auto;
+	margin-top: 30px;
+	width: 400px;
+	padding: 15px 0px;
+	background-color: gray;
+	border:2px solid black;
+	color: white;
+	font-size:26px;
+	text-align: center;
+	text-transform: uppercase;
+}
+.content{
+	height: 450px;
+	width: 400px;
+	background-color: lightblue;
+	margin: auto;
+	margin-top: 3px;
+	text-align: center;	
+    border:2px solid blue;	
+}
+#display{
+	padding: 13px 10px;
+	width: 300px;	
+    text-align: right;
+    margin-top: 35px;
+    margin-bottom:  10px;
+    border:2px solid gray;
+    border-radius: 10px ;
+}
+.buttons{
+	font-size: 20px;
+	width: 74px;
+	padding: 5px;
+	margin-bottom: 3px;
+   border-right: 2px solid gray;
+   border-radius: 5px;
+}
+
+
